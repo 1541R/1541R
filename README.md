@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Coming soon.](Coming soon.)
 
-- 💬 Ask me about **laravel, javascript, php, tcpdf library, barryvdh library**
+- 💬 Ask me about **laravel, javascript, php, mysql, nodejs, react**
 
 - 📫 How to reach me **isai.rdz.a@gmail.com**
 
